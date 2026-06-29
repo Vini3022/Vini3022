@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou Vinicius 👋
 
-<!--
-**Vini3022/Vini3022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante do IFRN
+💻 Aprendendo desenvolvimento web e programação
+🚀 Focado em evoluir em JavaScript, HTML e CSS
+📚 Estudando lógica de programação, estruturas de dados
 
-Here are some ideas to get you started:
+## 🛠 Tecnologias que estou aprendendo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML5
+- CSS3
+- JavaScript
+- Git e GitHub
+- SQL
+- Linux
+
+## 📌 Projetos
+
+🔹 Carrinho de compras
+Projeto para praticar manipulação de DOM, arrays, objetos e lógica com JavaScript.
+
+## 🎯 Objetivos
+
+- Melhorar minhas habilidades em JavaScript
+- Aprender React futuramente
+- Evoluir em desenvolvimento full stack
+- Construir projetos mais complexos
